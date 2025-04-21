@@ -1,0 +1,1 @@
+console.log('Ski Guide JS Loaded');
